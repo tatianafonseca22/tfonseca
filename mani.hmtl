@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Comic Book Story</title>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <div class="container">
+        <h1>My Comic Book Story</h1>
+        <div class="comic-section">
+            <!-- Place your comic book image here -->
+            <img src="comic_book_image.jpg" alt="My Comic Book Story">
+        </div>
+    </div>
+</body>
+</html>
